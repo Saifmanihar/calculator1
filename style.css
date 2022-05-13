@@ -1,0 +1,139 @@
+table{
+    height: 85vh ;
+    width: 24vw;
+    border: 1px solid black ;
+    margin-left: 35%;
+  background-color: dimgrey;
+  border-radius: 8px;
+  
+
+}
+#number1{
+    height: 12vh;
+    width: 23vw;
+    border: 1px solid black;
+    border-radius: 10px;
+   text-align: right;
+   font-size: 35px;
+   padding-bottom: -15px;
+   background-color: black;
+   color: white;
+}
+.button1{
+    height: 6vh;
+    width: 2px;
+    display: flex;
+    margin-top: 20px;
+  
+}
+#b1{
+    margin-right: 32px ;
+    padding: 31px 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b2{
+    margin-right: 32px ;
+    padding: 31px 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b3{
+    margin-right: 32px ;
+    padding: 31px 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b4{
+    margin-right: 32px ;
+    padding: 31px 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+.button2{
+    margin-top: 56px;
+    display: flex;
+    height: 6vh;
+    width: 2px;
+    margin-right: 15px;
+    
+}
+#b5{
+    margin-right: 24px ;
+    padding: 33px 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b6{
+    margin-right: 24px ;
+    padding: 33px 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b7{
+    margin-right: 24px ;
+    padding: 33px 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b8{
+    margin-right: 24px ;
+    padding: 33px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: darkslategray;
+}
+#b9{
+    margin-right: 24px ;
+    padding: 33px 170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: darkslategray;
+    margin-left: 3px;
+}
+
+#result{
+    display: block;
+    height: 10vh;
+    width: 23vw;
+    border: 1px solid black;
+   background-color: black;
+   color: white;
+   font-size: 55px;
+   text-align: right;
+   margin: 12px auto;
+}
